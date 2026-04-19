@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "titulo": "Varrer a Casa",
+        "status": "conclu\u00eddo"
+    },
+    {
+        "id": 4,
+        "titulo": "Fazer almo\u00e7o",
+        "status": "conclu\u00eddo"
+    },
+    {
+        "id": 5,
+        "titulo": "Ir a academia",
+        "status": "pendente"
+    },
+    {
+        "id": 6,
+        "titulo": "Finalizar Relat\u00f3rios",
+        "status": "pendente",
+        "prazo": "2026-04-20",
+        "prioridade": "m\u00e9dia"
+    },
+    {
+        "id": 7,
+        "titulo": "Arrumar Guarda Roupa",
+        "status": "pendente",
+        "prazo": "",
+        "prioridade": "baixa"
+    }
+]
