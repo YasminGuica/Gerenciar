@@ -1,6 +1,6 @@
 ﻿# Gerenciar
 
-Um gerenciador de tarefas simples via linha de comando (CLI) que permite criar, listar, atualizar e remover tarefas, com suporte a status, prazos e prioridades. Os dados são persistidos em arquivos JSON ou CSV.
+Um gerenciador de tarefas simples via linha de comando (CLI) que permite criar, listar, atualizar e remover tarefas, com suporte a status, prazos e prioridades. Os dados são persistidos em arquivos JSON.
 
 ---
 
@@ -19,29 +19,19 @@ Um gerenciador de tarefas simples via linha de comando (CLI) que permite criar, 
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Linguagem: (ex: Python, C, Node.js – ajuste conforme seu projeto)
-* Manipulação de arquivos (JSON)
-
+* Linguagem: (Python,Node.js )
+* Biblioteca padrão: Manipulação de arquivos (JSON),datetime
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```
-task-cli/
-│
-├── data/
-│   └── tasks.json
-│
-├── src/
-│   ├── gerenciador.(extensão)
-│   
-│ 
-│
-└── README.md
+ gerenciador-tarefas
+ ┣  main.py
+ ┣  tasks.json
+ ┗  README.md
 ```
 ## 📊 Estrutura da Tarefa
-
-Exemplo em JSON:
 
 ```json
 {
@@ -62,7 +52,3 @@ Exemplo em JSON:
 
 ---
 
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
