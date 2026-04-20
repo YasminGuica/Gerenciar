@@ -4,16 +4,16 @@ Um gerenciador de tarefas simples via linha de comando (CLI) que permite criar, 
 
 ---
 
-## 🚀 Funcionalidades
+## ⚡ Funcionalidades
 
-* ✅ Criar tarefas
-* 📋 Listar tarefas
-* ✏️ Atualizar tarefas
-* ❌ Remover tarefas
-* 🔄 Marcar como concluída ou pendente
-* ⏰ Definir prazos (deadline)
-* ⚡ Definir prioridades (baixa, média, alta)
-* 💾 Persistência em JSON ou CSV
+*  Criar tarefas
+*  Listar tarefas
+*  Atualizar tarefas
+*  Remover tarefas
+*  Marcar como concluída ou pendente
+*  Definir prazos (deadline)
+*  Definir prioridades (baixa, média, alta)
+*  Persistência em JSON ou CSV
 
 ---
 
